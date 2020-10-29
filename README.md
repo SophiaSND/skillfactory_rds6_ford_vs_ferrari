@@ -1,5 +1,5 @@
 ![Title PNG "Skill Factory"](/assets/skillfactory_logo.png)
-# Проект №5. Ford vs Ferrari
+# Проект №6. Ford vs Ferrari
 # Юнит 7. Нейронные сети 
 <!-- vim-markdown-toc Redcarpet -->
 
